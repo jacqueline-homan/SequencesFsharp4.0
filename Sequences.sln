@@ -1,0 +1,47 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{f2a71f9b-5d33-465a-a702-920d77279786}") = "Sequences", "Sequences\Sequences.fsproj", "{68114A4D-427D-45B0-A298-29B677E6C1ED}"
+EndProject
+Project("{f2a71f9b-5d33-465a-a702-920d77279786}") = "SeqUnfold", "SeqUnfold\SeqUnfold.fsproj", "{AE6D20BA-C48C-490F-9CA9-F82D96B49D8C}"
+EndProject
+Project("{f2a71f9b-5d33-465a-a702-920d77279786}") = "SeqGroupBy", "SeqGroupBy\SeqGroupBy.fsproj", "{D739DD8D-CAB4-4FB2-BBD2-AFC197447033}"
+EndProject
+Project("{f2a71f9b-5d33-465a-a702-920d77279786}") = "SeqDistinctBy", "SeqDistinctBy\SeqDistinctBy.fsproj", "{8064AE9B-453A-424B-905A-D8D826FF9641}"
+EndProject
+Project("{f2a71f9b-5d33-465a-a702-920d77279786}") = "SeqPairwise", "SeqPairwise\SeqPairwise.fsproj", "{671F048C-2516-49A0-BB34-E6EBB2A6F645}"
+EndProject
+Project("{f2a71f9b-5d33-465a-a702-920d77279786}") = "SeqCollect", "SeqCollect\SeqCollect.fsproj", "{88913C9D-AE43-470D-9827-04BD3C90387C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68114A4D-427D-45B0-A298-29B677E6C1ED}.Debug|x86.ActiveCfg = Debug|x86
+		{68114A4D-427D-45B0-A298-29B677E6C1ED}.Debug|x86.Build.0 = Debug|x86
+		{68114A4D-427D-45B0-A298-29B677E6C1ED}.Release|x86.ActiveCfg = Release|x86
+		{68114A4D-427D-45B0-A298-29B677E6C1ED}.Release|x86.Build.0 = Release|x86
+		{AE6D20BA-C48C-490F-9CA9-F82D96B49D8C}.Debug|x86.ActiveCfg = Debug|x86
+		{AE6D20BA-C48C-490F-9CA9-F82D96B49D8C}.Debug|x86.Build.0 = Debug|x86
+		{AE6D20BA-C48C-490F-9CA9-F82D96B49D8C}.Release|x86.ActiveCfg = Release|x86
+		{AE6D20BA-C48C-490F-9CA9-F82D96B49D8C}.Release|x86.Build.0 = Release|x86
+		{D739DD8D-CAB4-4FB2-BBD2-AFC197447033}.Debug|x86.ActiveCfg = Debug|x86
+		{D739DD8D-CAB4-4FB2-BBD2-AFC197447033}.Debug|x86.Build.0 = Debug|x86
+		{D739DD8D-CAB4-4FB2-BBD2-AFC197447033}.Release|x86.ActiveCfg = Release|x86
+		{D739DD8D-CAB4-4FB2-BBD2-AFC197447033}.Release|x86.Build.0 = Release|x86
+		{8064AE9B-453A-424B-905A-D8D826FF9641}.Debug|x86.ActiveCfg = Debug|x86
+		{8064AE9B-453A-424B-905A-D8D826FF9641}.Debug|x86.Build.0 = Debug|x86
+		{8064AE9B-453A-424B-905A-D8D826FF9641}.Release|x86.ActiveCfg = Release|x86
+		{8064AE9B-453A-424B-905A-D8D826FF9641}.Release|x86.Build.0 = Release|x86
+		{671F048C-2516-49A0-BB34-E6EBB2A6F645}.Debug|x86.ActiveCfg = Debug|x86
+		{671F048C-2516-49A0-BB34-E6EBB2A6F645}.Debug|x86.Build.0 = Debug|x86
+		{671F048C-2516-49A0-BB34-E6EBB2A6F645}.Release|x86.ActiveCfg = Release|x86
+		{671F048C-2516-49A0-BB34-E6EBB2A6F645}.Release|x86.Build.0 = Release|x86
+		{88913C9D-AE43-470D-9827-04BD3C90387C}.Debug|x86.ActiveCfg = Debug|x86
+		{88913C9D-AE43-470D-9827-04BD3C90387C}.Debug|x86.Build.0 = Debug|x86
+		{88913C9D-AE43-470D-9827-04BD3C90387C}.Release|x86.ActiveCfg = Release|x86
+		{88913C9D-AE43-470D-9827-04BD3C90387C}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

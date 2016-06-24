@@ -1,0 +1,5 @@
+/home/jacque/Projects/F-sharp/Sequences/Sequences/obj/x86/Debug/.NETFramework,Version=v4.5.1.AssemblyAttribute.fs
+/home/jacque/Projects/F-sharp/Sequences/Sequences/bin/Debug/Sequences.exe.mdb
+/home/jacque/Projects/F-sharp/Sequences/Sequences/bin/Debug/Sequences.exe
+/home/jacque/Projects/F-sharp/Sequences/Sequences/obj/x86/Debug/Sequences.exe
+/home/jacque/Projects/F-sharp/Sequences/Sequences/obj/x86/Debug/Sequences.exe.mdb

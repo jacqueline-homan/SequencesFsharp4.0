@@ -1,0 +1,5 @@
+/home/jacque/Projects/F-sharp/Sequences/SeqDistinctBy/obj/x86/Debug/.NETFramework,Version=v4.5.1.AssemblyAttribute.fs
+/home/jacque/Projects/F-sharp/Sequences/SeqDistinctBy/bin/Debug/SeqDistinctBy.exe.mdb
+/home/jacque/Projects/F-sharp/Sequences/SeqDistinctBy/bin/Debug/SeqDistinctBy.exe
+/home/jacque/Projects/F-sharp/Sequences/SeqDistinctBy/obj/x86/Debug/SeqDistinctBy.exe
+/home/jacque/Projects/F-sharp/Sequences/SeqDistinctBy/obj/x86/Debug/SeqDistinctBy.exe.mdb

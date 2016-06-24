@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Sequences/Sequences.fsproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SeqPairwise/Program.fs">
+    <Files>
+      <File FileName="Sequences/Program.fs" Line="164" Column="24" />
+      <File FileName="SeqUnfold/Program.fs" Line="36" Column="30" />
+      <File FileName="SeqGroupBy/Program.fs" Line="34" Column="5" />
+      <File FileName="SeqDistinctBy/Program.fs" Line="44" Column="20" />
+      <File FileName="SeqPairwise/Program.fs" Line="7" Column="20" />
+      <File FileName="SeqCollect/Program.fs" Line="33" Column="7" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.Sequences PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
