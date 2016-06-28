@@ -72,10 +72,10 @@ let seqInfinite = Seq.initInfinite (fun index ->
     let n = float( index + 1 )
     1.0 / (n * n * (if ((index + 1) % 2 = 0) then 1.0 else -1.0)))
 printfn "%A" seqInfinite
-
-(*[3;3;2;4;1;2;8] 
+(*
+[3;3;2;4;1;2;8] 
 |> Seq.mapi (fun i v -> i, v) // Add indices to the values (as first tuple element)
-|> Seq.groupWhen (fun (i, v) -> i%2 = 0) // Start new group after every 2nd element
+|> Seq.groupWhen(fun (i, v) -> i%2 = 0) // Start new group after every 2nd element
 |> Seq.map (Seq.map snd) // Remove indices from the values
 |> Seq.iter(printfn "%A")
 *)

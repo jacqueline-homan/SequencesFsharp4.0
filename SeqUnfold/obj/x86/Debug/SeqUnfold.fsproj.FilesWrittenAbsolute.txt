@@ -1,0 +1,6 @@
+/home/jacque/Projects/F-sharp/Sequences/SeqUnfold/obj/x86/Debug/.NETFramework,Version=v4.5.1.AssemblyAttribute.fs
+/home/jacque/Projects/F-sharp/Sequences/SeqUnfold/bin/Debug/SeqUnfold.exe.mdb
+/home/jacque/Projects/F-sharp/Sequences/SeqUnfold/bin/Debug/SeqUnfold.exe
+/home/jacque/Projects/F-sharp/Sequences/SeqUnfold/obj/x86/Debug/SeqUnfold.exe
+/home/jacque/Projects/F-sharp/Sequences/SeqUnfold/obj/x86/Debug/SeqUnfold.exe.mdb
+/home/jacque/Projects/F-sharp/Sequences/SeqUnfold/bin/Debug/MathNet.Numerics.dll

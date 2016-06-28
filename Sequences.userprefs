@@ -1,8 +1,8 @@
 ﻿<Properties StartupItem="Sequences/Sequences.fsproj">
-  <MonoDevelop.Ide.Workbench ActiveDocument="SeqPairwise/Program.fs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SeqUnfold/Program.fs">
     <Files>
       <File FileName="Sequences/Program.fs" Line="164" Column="24" />
-      <File FileName="SeqUnfold/Program.fs" Line="36" Column="30" />
+      <File FileName="SeqUnfold/Program.fs" Line="67" Column="32" />
       <File FileName="SeqGroupBy/Program.fs" Line="34" Column="5" />
       <File FileName="SeqDistinctBy/Program.fs" Line="44" Column="20" />
       <File FileName="SeqPairwise/Program.fs" Line="7" Column="20" />
